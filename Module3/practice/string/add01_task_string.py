@@ -5,8 +5,8 @@ text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat
        "Donec tincidunt sed lorem et feugiat. Nullam elementum"
 # Примечание: для генериации текста можете воспользоваться сайтом: https://ru.lipsum.com/
 # Примечание: обратите внимание на перенос длинной строки на новую строку
-# TODO: your code here
 
+# TODO: your code here
 # Вариант 1. isalpha()
 
 import string
